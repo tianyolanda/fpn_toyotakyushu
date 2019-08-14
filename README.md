@@ -30,7 +30,7 @@ Res-101    | 1  RTX 2080  | 1 | 1e-3 | 5  | 12  |  \ | \ | 75.8
 clone the code
 
 ```
-git clone https://github.com/tianyolanda/fpn-pytorch1.0.git
+git clone https://github.com/tianyolanda/fpn_toyotakyushu.git
 ```
 
 Then, create a folder:
